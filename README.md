@@ -1,2 +1,2 @@
-# example-repository
-This repository is used to demonstrate the Git/Github.com workflow for the Earth Analytics courses, including forking and cloning repositories as well as creating a reverse pull request to update a student's fork from earthlab-education:master. 
+# Automation with Make Tutorial Using Python
+This repository is used in a tutorial on Make using Python scripts. This tutorial is developed for the <a href="https://www.earthdatascience.org" target="_blank">Earth Analytics courses at CU Boulder Earth Lab</a>. 
