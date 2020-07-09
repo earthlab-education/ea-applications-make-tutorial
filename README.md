@@ -1,2 +1,2 @@
 # Automation with Make Tutorial
-This repository is used in a tutorial on Make using Python scripts. This tutorial is developed for the <a href="https://www.earthdatascience.org" target="_blank">Earth Analytics courses at CU Boulder Earth Lab</a>. 
+This repository is used in a tutorial on Make using Python scripts. This tutorial is developed for the <a href="https://www.earthdatascience.org" target="_blank">Earth Analytics courses at CU Boulder Earth Lab</a>. The data are downloaded in the code from a data respository on <a href="https://figshare.com/articles/dataset/Earth_Analytics_Applications_Data_for_Automation_with_Make/7811882" target="_blank">Figshare</a>.
